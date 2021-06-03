@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the bloudy execution, lately performed by the commaundment of the Emperours Maiestie, vpon the persons of some chiefe states-men, and others; in Prague the chiefe citie of the kingdome of Bohemia. the 11. of Iune 1621 VVith the manner and proceedings therein obserued. Faithfully translated out of the Dutch copye.</title>
+            <title>Waerachtige verclaringhe. English.</title>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15358</idno><idno type="EEBO-CITATION">99837002</idno>
+  <idno type="VID">177260</idno>
+  <idno type="EEBO-PROQUEST">2248554208</idno>
+  <idno type="STC">STC 20181</idno>
+  <idno type="STC">ESTC S101180</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837002e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 970:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the bloudy execution, lately performed by the commaundment of the Emperours Maiestie, vpon the persons of some chiefe states-men, and others; in Prague the chiefe citie of the kingdome of Bohemia. the 11. of Iune 1621 VVith the manner and proceedings therein obserued. Faithfully translated out of the Dutch copye.</title>
+                  <title>Waerachtige verclaringhe. English.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>S.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed the 21. of Iuly 1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from STC.</note>
+                  <note>A translation of:  Waerachtige verclaringhe.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Bohemia (Czech Republic) --  History --  1618-1848 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177260:1"/>
+            <p>A True RELATION Of the bloudy Execution, lately per<g ref="char:EOLhyphen"/>formed by the Commaundment of the Em<g ref="char:EOLhyphen"/>perours Maiestie, vpon the Persons of some Chiefe States-men, and others; in <hi>Prague</hi> the chiefe Citie of the Kingdome of <hi>Bohemia.</hi> the 11. of <hi>Iune</hi> 1621.</p>
+            <p>VVith the manner and proceedings therein obserued.</p>
+            <p>
+               <hi>Faithfully Translated out of the</hi> Dutch Copye.</p>
+            <p>Printed the 21. of Iuly 1621.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177260:2"/>
+            <pb facs="tcp:177260:2"/>
+            <head>A true Relation, of the bloudy Exe<g ref="char:EOLhyphen"/>cution, lately performed (by the Command<g ref="char:EOLhyphen"/>ment of the Emperours Maiestie) vpon the persons of some free States-men and others in <hi>Prague,</hi> the 22. of Iune 1621.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is no doubt but that many will be very desirous to vnderstand and be fully informed, of the last most bloudy and cruell execution, with the criminal pro<g ref="char:EOLhyphen"/>ceedings concerning the same, against the Noble persons of some States-men Directors &amp; other excellent and well qualified personages, in the famous Kingdome of Bohemia &amp; therefore we haue thought good to set in writing and to cause openly to be printed the true discourse thereof, to the end it may come to the knowledge of those that desire to be certified of the true ground &amp; manner therof: And this Execution with the circumstances concer<g ref="char:EOLhyphen"/>ning the same, was don and accomplished in such manner as followeth.</p>
+            <p>After that the Ma<seg rend="sup">tie</seg>. of the Roman Emperour and King of Hungaria and Bohemia had ordained and giuen commission to his Excellencie the Prince of Lichtenstein (hauing to his assistance some other personages) concerning the Prisoners in the King<g ref="char:EOLhyphen"/>dome of Bohemia, his Maiestie gaue commandment that the Execution of them should be don and ac<g ref="char:EOLhyphen"/>complished
+<pb facs="tcp:177260:3"/>vpon Monday being the 11. after the an<g ref="char:EOLhyphen"/>cient, and the 21. day of Iune, after the newe compu<g ref="char:EOLhyphen"/>tation: which according to the Impeariall Com<g ref="char:EOLhyphen"/>maundment is performed vpon the same day in the following manner.</p>
+            <p>On Thursday, before namely the 17. of the said moneth of Iune, there came 7. Companies of Horse vnder the commaund of his Alteze the Ducke of Saxony in the Citty of Prague, whereof fiue Com<g ref="char:EOLhyphen"/>panies were ordained to lodge in the olde Citty and two Companies in the newe Citty, they kept their watches and sentinells from that day heere and there in the seuerall streetes of the olde Citty, but in the great market place before the Townehouse of the olde Citty, there watched euery night continu<g ref="char:EOLhyphen"/>ally a whole Company of the said Horsmen.</p>
+            <p>On Friday following being the 18. of Iune the Theatrum or Scaffold of timber which was to be erected, and wherevpon the following Execution of the prisoners for the most part was to be performed, was made ready and dispached in the common Car<g ref="char:EOLhyphen"/>penters yarde of the olde Citty; and the same was the next day erected and set vp in the great Market-place of the said Cittie close and ioyning to the Towne-house, so that they might out of the same Towne-house goe conueniently vpon the Scaffold through a dore purposely made to that end. The Scaffold being high 4 ells: 22. paces broade, and 22. paces long, in a square forme: all of good substantial strong timber and rayles made round about.</p>
+            <p>On Saterday the 19. of Iune, very earely in the morning there were 13. of the prisoners out of the
+<pb facs="tcp:177260:3"/>olde Citty and 10 out of the new Citty; by the Coaches and Horses belonging to the Senators of the said Citty brought vpwards in the Court to the Castle, conuaied with a strong Guard of Horses and some Companyes of Musketieres, where the others aswell Lords and Knights who were of the Nomber of the Directors had beene kept prisoners.</p>
+            <p>Whereupon they proceeded to the arraignement and condemnation of the prisoners: which busines was tooke in hand and effected in the Kings Court chamber right ouer the Chancery, where a Royall Throne or seate of russet Veluet was erected, and thereupon his Excellency the Prince of <hi>Lichtenstein,</hi> and the other Lords and Commissioners were sit<g ref="char:EOLhyphen"/>ting by and about him.</p>
+            <p>Then the Prisoners were one after another sent for and brought before the Imperiall Court and Lords Commissioners, when the Emperours At<g ref="char:EOLhyphen"/>turney came forth and indited euery particuler Pri<g ref="char:EOLhyphen"/>soner one after another in the <hi>German</hi> and <hi>Bohemian</hi> speech for matters enormious and criminall as hee alledged, requesting the Lords Commissioners in his Masters behalfe to decree and pronounce their finall Iudgement against them.</p>
+            <p>Whereupon Doctor <hi>Melander</hi> made answer in high Dutch; That the Iudgement was decreed al<g ref="char:EOLhyphen"/>ready, and should not be executed, but in such a sort as might bee according to right and Iustice and to the Lawes of the Kingdome, and besides as may stretch to the reputation and authority of the Em<g ref="char:EOLhyphen"/>perours Maiesty.</p>
+            <p>After him Doctor <hi>Kapper</hi> made a speech in the
+<pb facs="tcp:177260:4"/>Bohemian tongue being the same in effect; There<g ref="char:EOLhyphen"/>upon is the Arraignment and Iudgement pronoun<g ref="char:EOLhyphen"/>ced by the Imperiall Iudge of the lower part in the high Dutch, and presently after him by another in the Bohemian Language. And thus were the 43. heereafter named persons, by the Iudges sentence in manner as followeth, adjudged and condemned to seuerall punitions.</p>
+            <div type="part">
+               <p>First of all some were condemned to imprison<g ref="char:EOLhyphen"/>ment of their persons and other some to Corporall punishment.</p>
+               <p n="1">1 The Lord <hi>William Poppel</hi> of <hi>Lockowitz, &amp;c.</hi> High Steward of the Kingdome, who was brought forth first of all, his Iudgement was, that grace should be offred vnto him, but yet vpon the good liking and ratification of the Emperours Maiestye, was to re<g ref="char:EOLhyphen"/>maine in perpetuall prison.</p>
+               <list>
+                  <head>These are condemned in like maner vpō his Ma<seg rend="sup">ties</seg> liking, to per<g ref="char:EOLhyphen"/>petual imprisonment.</head>
+                  <item n="2">
+                     <hi>Paul Rinschan</hi>
+                  </item>
+                  <item n="3">
+                     <hi>Hans Wastrowetz</hi>
+                  </item>
+                  <item n="4">
+                     <hi>Felix Wentzel Pietibesky</hi>
+                  </item>
+                  <item n="5">
+                     <hi>D. Matthias Borbonius.</hi>
+                  </item>
+               </list>
+               <p n="6">6 <hi>Lucas Karabon</hi> is condemned to be Executed with the Sworde, but grace being shewed him, his Iudgement is, that he shall be sent to <hi>Raab,</hi> and there to remaine in perpetuall prison.</p>
+               <p n="7">7 <hi>Wolfgang Haslawer,</hi> is to be sent to <hi>Raab</hi> and there to be shut vp in Iron chaynes.</p>
+               <p n="8">8 <hi>Melchior Dubrecht,</hi> is to be banished out of the Land for euer, but grace shewed him, is to be sent to <hi>Raab</hi> and there to weare the Iron chaines for a yeare.</p>
+               <p n="9">9 <hi>George Sabiota</hi> is also condemned to be banish<g ref="char:EOLhyphen"/>ed for euer, but out of grace and vpon the Emperors
+<pb facs="tcp:177260:4"/>pleasure, Execution is suspended.</p>
+               <p n="10">10 <hi>Paul Patzko</hi> shall remaine in prison for a yeare.</p>
+               <p n="11">11 <hi>Caspar Vszler</hi> is condemned to be hangd out of the Windowe of the new Cities Counsel-house, but by grace, till farther order, the Execution is stay<g ref="char:EOLhyphen"/>ed, and he in the meane time to remaine in prison.</p>
+               <p n="12">12 <hi>Nicholas Diebis.</hi> Officer to the Burgamasters of the olde Citty, is condemned to haue his tongue cut out of his throat, and it fastened to the gallowes, and after that to be sent to <hi>Raah,</hi> there to be shut vp in I<g ref="char:EOLhyphen"/>rons: but grace offered him, hee is to stand with his tongue nayled on the poast of the Gallowes, for the space of an houre, and then to be sent to <hi>Raab</hi> afore<g ref="char:EOLhyphen"/>said to perpetuall imprisonment.</p>
+               <list>
+                  <head>Amongst these are 2. Bo<g ref="char:EOLhyphen"/>hemian Procurators, all 3. are cōdemned to be whipt with Rods out of the citie and banisht the land.</head>
+                  <item n="13">
+                     <hi>Wentzel Orsatzky,</hi>
+                  </item>
+                  <item n="14">
+                     <hi>Ioseph Kubin,</hi>
+                  </item>
+                  <item n="15">
+                     <hi>Hans Sirele.</hi>
+                  </item>
+               </list>
+               <p n="16">16 <hi>Iohn Kammerit is,</hi> is to be banished for one yeare.</p>
+            </div>
+            <div type="part">
+               <head>These persons following were condemned to Death.</head>
+               <head type="sub">First men of Noble houses.</head>
+               <p n="1">1 The Lord <hi>Ioashim Andreas Schlick, &amp;c.</hi> chiefe Minister of the Iustice in the Land of Bohemia, one of the priuy Counsell Director, and head Gouer<g ref="char:EOLhyphen"/>nour in vpper Lufatia, &amp;c. whome the Elector of Saxony seut Prisoner to <hi>Prague,</hi> hee had this heauy Sentence of condemnation pronounced against him, that first his right hand should bee chopt off, then to be quartered aliue, and the quarters to be
+<pb facs="tcp:177260:5"/>hang'd vpon the high-wayes, his head and hand to be fastened on a pole vpon the Bridge Tower: But grace being offred vnto him, hee is to haue his head and then his right hand cut off, and both to be nay<g ref="char:EOLhyphen"/>led on the top of a Pole and set vpon the Bridge Tower.</p>
+               <p n="2">2 The Lord <hi>Wentzel</hi> of <hi>Budowitz Senior,</hi> President of the Appellations and Director, is condemned to the same penalty as the Earle of <hi>Sclick:</hi> Neuerthe<g ref="char:EOLhyphen"/>lesse mercy being shewed him, his Iudgement is mi<g ref="char:EOLhyphen"/>tigated, and is to be executed after the same manner as the said Earle of Sclick.</p>
+               <p n="3">3 The Lord <hi>Christofer</hi> of <hi>Harrant,</hi> President of the Bohemian Chamber and Director, out of grace is adiudged to be executed with the Sword.</p>
+            </div>
+            <div type="part">
+               <head>These following were Knights and of the Gentry.</head>
+               <p n="4">4 <hi>Bohuszlaw</hi> of <hi>Michalowitz, &amp;c.</hi> Burghgraue of <hi>Conig, Gratzer, Craitz,</hi> and Director, &amp;c. shall be exe<g ref="char:EOLhyphen"/>cuted with the Sword, and is to haue his right hand chopt off, and both to be set and nayled fast vpon the Bridge Tower.</p>
+               <p n="5">5 <hi>Casper Kaplitz,</hi> Lord high Secretary of the King<g ref="char:EOLhyphen"/>dome of Bohemia and Director, is condemned to haue his head cut off, then to bee parted in fower quarters, &amp; the quarters to be hang'd vpon the high wayes: But out of grace mercy being shewed vnto him, in consideration of his great age of fouer fcore yeares, this Iudgement is mitigated and he is to be Executed with the Sword and his head to be faste<g ref="char:EOLhyphen"/>ned with the others vpon the Bridge Tower.</p>
+               <p n="6">6 <hi>Hinrick Otto</hi> of <hi>Losz, &amp;c.</hi> Vnder burghgraue of
+<pb facs="tcp:177260:5"/>Carlestein, also Vnder-chamberlaine of Bohemia, and Director, is condemned to be cut aliue in foure quarters, and the peeces to be hanged and set vp, as of the former: But by grace this Iudgement is miti<g ref="char:EOLhyphen"/>gated, and is condemned to dye in such manner as the foresaid <hi>Kaplitz.</hi>
+               </p>
+               <p n="7">7 <hi>Procopius Dworsetzky,</hi> Vnder-chamberlaine of Bohemia, and</p>
+               <p n="8">8 <hi>Friderick van Bilaw,</hi> Captain of the Dutch Leen or feofe, both Directors, and both had such heauy Sentence as the aforesaid <hi>Kaplitz:</hi> But yet out of grace their Iudgement is altered and mittigated, as of the aforesaid Kaplitz, and they are to be executed with the Sword, their heads set vp and fastened as a<g ref="char:EOLhyphen"/>foresaid.</p>
+               <p n="9">9 <hi>Willem Koneg</hi> of <hi>Klumboky,</hi> Director, and</p>
+               <p n="10">10 <hi>Dionisius Tscher in,</hi> Captaine of the Castle of <hi>Prague,</hi> by grace shewed them, they are both senten<g ref="char:EOLhyphen"/>ced to haue their heads cut off with the Sword.</p>
+            </div>
+            <div type="part">
+               <head>These following, are of the Burgesses and of the best Cittizens.</head>
+               <list>
+                  <head>The three first Direct<g ref="char:EOLhyphen"/>ors, but all foure con<g ref="char:EOLhyphen"/>demnd to be executed with the sword, &amp; ther heads on poles on the Bridge Tower.</head>
+                  <item n="11">
+                     <hi>Valentine Kochan</hi>
+                  </item>
+                  <item n="12">
+                     <hi>Tobias Stefgeck</hi>
+                  </item>
+                  <item n="13">
+                     <hi>Christofer Cober senior</hi>
+                  </item>
+                  <item n="14">
+                     <hi>Iohn Theodorus</hi> sixt.</item>
+               </list>
+               <p n="15">15 <hi>Iohn Schulthetsz</hi> Burgemaster at <hi>Kuteenbergh,</hi> &amp;</p>
+               <p n="16">16 <hi>Maximilian Heostelig, Primus</hi> at <hi>Satz,</hi> both these are condemned to haue their heads stroken off with the sworde, and the Head of the first is to bee caryed to <hi>Kuttenbergh,</hi> and of the other to <hi>Satz,</hi> and
+<pb facs="tcp:177260:6"/>each to be nayled on poles and made fast vpon the Gallowes of their seueral places.</p>
+               <p n="17">17 D. <hi>Iobannes Iessenius,</hi> a Doctor in Physicke, a famous Learned man, and one of the eloquentest O<g ref="char:EOLhyphen"/>rators that Bohemia euer brought forth, a Professor in the Colledge <hi>Carolini</hi> in the olde Citty of <hi>Prague,</hi> is sentenced to this grieuous and heauy Iudgement, to haue his tongue plukt out of his throat, and then to be quartered aliue: But by speciall mercy offred him, he is condemned to haue his tongue cut off as aforesaid, and thereupon to be executed with the Sword, and then to be quartered in fower peeces, which quarters are to be hang'd by the Gallowes Tower vpon the high streets there to remaine, but his head to be poled and set vpon the Bridge Tower.</p>
+               <list>
+                  <head> These seauen recei<g ref="char:EOLhyphen"/>ued all grace and are to be executed with the Sword.</head>
+                  <item n="18">
+                     <hi>Wentzel Maschir offizky</hi>
+                  </item>
+                  <item n="19">
+                     <hi>Hinrick Bock,</hi>
+                  </item>
+                  <item n="20">
+                     <hi>Elias Rossin Senior,</hi>
+                  </item>
+                  <item n="21">
+                     <hi>Elias Kotzaw,</hi>
+                  </item>
+                  <item n="22">
+                     <hi>George Stzetzisckky,</hi>
+                  </item>
+                  <item n="23">
+                     <hi>Michel Widman,</hi>
+                  </item>
+                  <item n="24">
+                     <hi>Simon Wockatschtz.</hi>
+                  </item>
+               </list>
+               <p n="25">25 <hi>Iohn Kuttenaw,</hi> chiefe Captaine of the Citizens in the olde Citty, and</p>
+               <p n="26">26 <hi>Simon Sussitzszky,</hi> Commissary of the Coun<g ref="char:EOLhyphen"/>sel, and of the Stewer-ampt, and also in former times Commissary of the Iesuites Colledge: both are con<g ref="char:EOLhyphen"/>demned to be hang'd out of the Window of the Towne-house in the olde Citty on a beame or peece of Timber to that end stretched out of the same window.</p>
+               <p n="27">27 <hi>Nathaniel Wodnianszky,</hi> is condemned to be
+<pb facs="tcp:177260:6"/>hang'd and strangled on the Gallowes in the Market place in the olde City.</p>
+            </div>
+            <div type="part">
+               <p>Immediately after this Iudgement and sentence of condemnation, it is likewise decreed and pro<g ref="char:EOLhyphen"/>nounced to all in generall, and to euery Prisoner in particular (as well to those that were left aline, as to them that were afterwards executed) that they had forfeited their Bodies, Liues, Estates, Honours, Dig<g ref="char:EOLhyphen"/>nities, good and blood, and that their goods should be seazed vpon (as already in some sort it was affe<g ref="char:EOLhyphen"/>cted) but onely that some of their bed consorts and wiues, should haue free their Ioynture that they brought with them at their mariage.</p>
+               <p>This bloody and tragicall Acte of condemnation. being ended, and brought to that periode; the Em<g ref="char:EOLhyphen"/>perors, Atourny in his Maiesties name gaue harty thankes to the Lord Commissioners both in the Dutch and Bohemian language, and thereupon the said Lord Commissioners, returned againe to their houses, But the condemned Persons were conuayed againe to the place of their Imprisonment, &amp; there they obtained leaue, that euery one that knewe any of them might freely come to visite them to speake and conferre with them, and to comfort them in this their Extremity. But assoone as from their arraignment they were returned into their Prisons, there resorted vnto them great Companyes of Iesu<g ref="char:EOLhyphen"/>ites all two and two, who did their vttermost ende<g ref="char:EOLhyphen"/>uour with exceeding great perswasions to turne them to their opinion and to conuert them, if any wise it were possible) to their Idolatry and Popish Religion (they all being of the Augustine confession
+<pb facs="tcp:177260:7"/>and with great constancy professing the Lutheran re<g ref="char:EOLhyphen"/>ligion (except <hi>Wentzel Badowitz</hi> being of the refor<g ref="char:EOLhyphen"/>med Religion, &amp; <hi>Dionisius Tschkerin</hi> a Roman Catho<g ref="char:EOLhyphen"/>like) but they got so much of the one as of the other, and in summe effected nothing at all. And because they disputed more then an houre with D. <hi>Iessenius</hi> in the presence of Mr. <hi>Dauid Lippach</hi> Minister &amp; Prea<g ref="char:EOLhyphen"/>cher of the Augustan confession, at last he gaue them this for his finall answer &amp; expedition, that all what in his baptisme he had promised to Iesus Christ his Lord and Sauiour, he was resolued to liue and dye thereby, and was most willing to ratifie &amp; seale the same with his blood.</p>
+               <p>They likewise were suffered either ingenerall or particular to haue with them aswell Duch as Bohe<g ref="char:EOLhyphen"/>mian Preachers, both of the confession of Ausburgh as of the Hussites to their last end who did their best endeuour and tooke great paines with comforting them, and gaue them many good admonitions to dye constantly in the trew knowledge of God and their Redeemer Iesus Christ, to their grrat strength<g ref="char:EOLhyphen"/>ning in this their last conflict.</p>
+               <p>On the aforesaid Saterday in the night time, (be<g ref="char:EOLhyphen"/>sides the 43. whereunder 27. were cōdemned to dye) there were two prisoners more adiudged to death in the manner as followeth, namely:</p>
+               <p n="1">1 <hi>Leander Ruppell</hi> being of the secret Counsell of the Elector Palatine of <hi>Heydelborgh,</hi> and also Coun<g ref="char:EOLhyphen"/>seller and Agent for some other Princes, and</p>
+               <p n="2">2 <hi>George Hawenschildt</hi> Aduocate &amp; Counsellor of the Appellutions and Commissary they were both sentenced to haue their heads &amp; hands cut of, and
+<pb facs="tcp:177260:7"/>then the said their heads and hands to be nayled on poales, and set vpon the Bridg-Tower, and all their goods to be confiscated: but because that these two were not with the other prisoners conuaied to the Castle) their sentence was not then pronounced vn<g ref="char:EOLhyphen"/>to them, as to the others, and therefore their con<g ref="char:EOLhyphen"/>demnation was sent to them in writing: and thus the execution which was to be done vpon their per<g ref="char:EOLhyphen"/>sons was denounced vnto them in the same night.</p>
+               <p>On Sunday following being the 20 of Iune very early in the morning there came many of the con<g ref="char:EOLhyphen"/>demned sorowfull Wiues, children &amp; friends to his Excellency the Prince of <hi>Lichtenstyn,</hi> out of the very bottom of their heartes crying most pittyfully for mercy, and interceeding their condemned Lords, Husbands, Fathers and Kinsmen: at least that their punishment might bee mitigated and their iudge<g ref="char:EOLhyphen"/>ment limmited, But they had a sober answer to the small comfort of their sorrowes in this their misery.</p>
+               <p>Vpon the same Sunday, the said Duch <hi>Lutherian</hi> Preacher master <hi>Lipp<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch</hi> in his Sermon did from the Pulpet most ernestly exhorte the people being there present in great multitude, no ioyne their instant &amp; serious Christian Prayers with him to God Almigh<g ref="char:EOLhyphen"/>ty for the condemned persones, that it would please his Diuine Maiesty to vouchsafe them a most happy, constant and Christian end, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaue then soules in the Eternall Glory which was done accordingly and therevpon the most part of them that in great number were in the Church did weepe and lament most bitterly: all which, as likewise the greuous and pitifull lamenting both before and after that, of
+<pb facs="tcp:177260:8"/>women and children, &amp; of other persons of all sortes struken with great compassion at such a lamentable spectacle, all bewailing and howling (the most part of the inhabitans of <hi>Prague,</hi> doeing nothing ells but weepe and cry out incessantly, pitying their vn<g ref="char:EOLhyphen"/>fortunate and distressed state) all which I say it were not possible otherwise but it would moue any stony heart, yea the stones themselues to commiseration, But in the meane time the condemned persons themselues were euer ioyfull within their soules, showing a chearefull Countenance, they resolued all together to dye coragiously in the christian Faith, and were full of comfort to their very last ends.</p>
+               <p>In the afternoone Doctor <hi>Iessenius, Leander Ruppell</hi> and <hi>George Hawenshild</hi> caused in the Sermon againe Christianly and feruently to be prayed for them, de<g ref="char:EOLhyphen"/>siring that it might be denounced from the pulpet to all the people there present, that if they had in any wise offended any of them, out of Christian charity they would be pleased to pardon them.</p>
+               <p>Towards night the Theatrum or Scaffold was o<g ref="char:EOLhyphen"/>uer and ouer and round about aswell at the sides as towards the Towne-house ouercouered some elles high with blacke Cloath: and assoone as after the Bohemian manner, the Clocke had strucken 24. houres, all the condemned persons were in eight Coaches brought from the Castle downe into the olde Citty, being conueyed thither with two com<g ref="char:EOLhyphen"/>panies of Horses and a company of Footmen, and immediately after that, the like is done with the o<g ref="char:EOLhyphen"/>ther Prisoners that were in the new Citty. And in this night all the companies of Horse and Foot held
+<pb facs="tcp:177260:8"/>their watches in seuerall places of the City of <hi>Prague,</hi> But in the meane time the condemned Prisoners passed and brought ouer all this night with conti<g ref="char:EOLhyphen"/>nuall Prayers and singing of Psalmes till the next following Munday early in the morning when the Execution should be done.</p>
+               <p>On Munday the 21. of Iune in the morning be<g ref="char:EOLhyphen"/>times when the clocke after the Dotch manner was not yet fiue, there were seene in the Element two faire Rainbowes, standing crosse-wise one ouer ano<g ref="char:EOLhyphen"/>ther, what that signifieth God knoweth onely, that thereof is diuerfly discoursed and iudged: And at the same time, as also the whole night before and as long as the then following execution did continue, two companies of Horses and three companies of Foot were placed in the great Market-place before the Towne-house. And the Clocke striking fiue af<g ref="char:EOLhyphen"/>ter the Dutch manner, a peece of Canon was dis<g ref="char:EOLhyphen"/>charged in the Castle for a signe and warning token, whereupon presently all the Gates of the Citty, as also that of the Bridge Tower were shut, and the Port-cullis let fall downe, and then they went for<g ref="char:EOLhyphen"/>wards with the Execution.</p>
+               <p>Vpon a lesser stage which also was made pur<g ref="char:EOLhyphen"/>posely ioyning to the great erected Theatrum or Scaffold was sitting the Imperiall Iudge, and with him the Counsell of the olde Citty, but the three Iudges of <hi>Prague</hi> gaue attendance to the condemned Prisoners, to bring and conney them one after ano<g ref="char:EOLhyphen"/>ther to the place of execution. Vpon the said Scaf<g ref="char:EOLhyphen"/>fold in the same place; where they should receiue the mortall stroake, a Crucifix was set by an vnknowne
+<pb facs="tcp:177260:9"/>disguised man, one (as it was thought) of the Citties Officers, whereby euery one of them that were con<g ref="char:EOLhyphen"/>demned did kneele downe vpon a blacke Cloath, and there with great patience receiued the corpo<g ref="char:EOLhyphen"/>rall punishment that he was to endure.</p>
+               <p>But in the meane time during the Execution, neere to the place thereof, some companies of Foot<g ref="char:EOLhyphen"/>men (who with some other companies of Horsemen stood there ranged in order of Battell in the great Market-place round about the Scaffold, excluding all other spectators from thence as farre as they could) were charged to make a noyse with their Drums, which was done accordingly, so that there<g ref="char:EOLhyphen"/>by it was vnpossible to any to heare his own wordes, much lesse such thinges as by euery patient in parti<g ref="char:EOLhyphen"/>culer might haue beene related for the last time &amp; in the end of their liues, many being much desirous to heare what should be by them vttered for their last confession.</p>
+               <p>First of all was brought forth the said Lord the Earle of Schlick in a blacke Silke gowne, hauing a little booke of Prayers in his hand: he was of a ioy<g ref="char:EOLhyphen"/>full countenance, and well animated, looking vp to Heauen, and without intermission powring out his feruent Prayers to God Almighty, he came to the Scaffold in all maner free and loose, as likewise were all the others that were Executed in that place: There one of his Seruants puld of his vpper gar<g ref="char:EOLhyphen"/>ment and Dublet, and he himselfe with the helpe of his said seruant vncouered and made naked the vp<g ref="char:EOLhyphen"/>per part of his body, then the Earle kneeled downe vpon the blacke Cloath which purposely was laid
+<pb facs="tcp:177260:9"/>there, and with great patience calling vpon the Bles<g ref="char:EOLunhyphen"/>sed name of the Lord, he stretched forth his necke, holding vp his head, which the Executioner strucke of with great dexterity and nimblenes; which being done, the said seruant tooke his Maisters right hand, and layd it vpon a little blocke which the Exe<g ref="char:EOLhyphen"/>cutioner chopt of likewise with his sworde: The said seruant taking presently his said Maisters head and hand in his custodie, but the body was wrapped in the black cloath whereupon he was executed, and then was assoone caried away from the scaffold by six men, who were all disguised, and cloathed in black mourning Gownes, wearing black hats vpon their heads &amp; their faces couered with some kinde of black cypers to the end they might not be knowne, but were some officers of the Maiestrates and Citty of Prague (as is thought) so that the Executioner touched not, nor layd hand on any place of the body of the said Earle, nor on his garments. The like was performed about all the others, being in all to the nomber of 24. that there were executed with the sworde (Doctor <hi>Iessenius</hi> onely excepted) And as soone as the one was dispatched, then there was brought an other black cloath to the scaffold for him that should be the next, and it was layd downe in the place of the former, to be vsed for the same end</p>
+               <p>The said Earle being dispatched, as is aboue rela<g ref="char:EOLhyphen"/>ted, the Lord <hi>Budowitz</hi> (being of the reformed Reli<g ref="char:EOLhyphen"/>gion) came forth to the scaffold, led by two of the said Iudges, no Priest nor Preacher being with him, He likewise offerrd his feruent prayers to God Al<g ref="char:EOLhyphen"/>mighty, and presently after suffered the corporall
+<pb facs="tcp:177260:10"/>punishment decreede against him, as is before men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p>In like manner the other 22 who were yet remai<g ref="char:EOLhyphen"/>ning were brought one after an other to the scaffold and there their Iudgement, in such manner as it was pronounced against their Persons, was fully done and accomplished. And furthermore as often as one was dispatched, the body of him that was beheaded, was at an instant caried away from the scaffold by the abouesaid six disguised men wrapped in the said blacke cloath, and in steede thereof other two men disguised after the said manner came in and brought an other new black cloath laying it downe open for him that should be the next.</p>
+               <p>And thus all the aforesaid condemned men being euery one for his perticular and all ingenerall full resolute and of good comfort, with powring out their deuout prayers continually to God, trusting to be saued through the merits of our Sauiour Ie<g ref="char:EOLhyphen"/>sus Christ, lost their heads &amp; dyed like good Chri<g ref="char:EOLhyphen"/>stians perseuering constantly in the Euangelical Re<g ref="char:EOLhyphen"/>ligion, accoridng to the confession of <hi>Auspurgh,</hi> cō<g ref="char:EOLhyphen"/>ming forth to the scaffold with Euangelicall Mini<g ref="char:EOLhyphen"/>nisters, onely excepted the said <hi>Dionius Tscherin,</hi> who dyed a Roman Catholique, hauing with him a Po<g ref="char:EOLhyphen"/>pish Chanon and a Iesuite, and the abouesaid Lord <hi>Budowitz,</hi> being of the reformed Religion, who was not permitted to haue a minister of his religion, and refused to haue other with him.</p>
+               <p>
+                  <hi>Doct<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Iessenius</hi> comming to the scaffold last of all, the Executioner tooke him presently and tyed his hands vpon his back, and then sitting downe vpon
+<pb facs="tcp:177260:10"/>his knees, a blacke cloth being laid open vnder him, he still calling vpon the name of God, where the Ex<g ref="char:EOLhyphen"/>ecutioner with a litle payre of pincers puld out his tongue and cut it of with a knife, and therevpon presently after, he cut of his head with his sword, which his decreed Iudgment corporall punishment he suffered with great patience &amp; constancy, hauing first offered his prayers with great deuotion to the Almighty God as is beforesaid.</p>
+               <p>Thus the Executioner of the Citty of <hi>Prague,</hi> hath brought to death in manner as is before related, the aforenamed 24 persons; All which was performed with fower swordes: with the first were executed elleuen, with the second fiue, and with the other two, eight had their heads cut of; and all with great dexterity, not missing one stroake, as if the winde had blowen their heads from their shoulders.</p>
+               <p>After this hee tooke the three other men who were condemned to be hang'd and in the great Mar<g ref="char:EOLhyphen"/>ket place before the Townehouse, he tyed their hands vpon their backs, whereof the two first was hanged vp on a peece of timber, that was struck out purposely of the windowe of the Townehouse, but the third was hanged on the ordinary Gallowes, so that within the space of lesse then fower howres and a halfe, by the Executioners own hands 27 men were put to death; and thus miserably lost their liues.</p>
+               <p>This bloody and cruelll execution was nothing els but a fearefull and most lamentable spectacle, which many of the spectators did behold with the highest commiseration and Christian compasion; so that many hundreth men, women and children
+<pb facs="tcp:177260:11"/>were then seene &amp; heard in the Citty of <hi>Prague</hi> most bitterly to weepe, lament &amp; bewaile, wringing their hands, with many heauy and wofull exclamations, which might haue mooued any heart were it neuer so hard to compassion.</p>
+               <p>Which Execution was the more pittifull to be<g ref="char:EOLhyphen"/>holde, because that those that were condemned (no regard being had that many of them were of Noble blood and of eminent Dignities, of the best Houses of the Realme, and some of them being very olde men, whereof the most part had faire gray hayres vp<g ref="char:EOLhyphen"/>on their graue heads, &amp; snow white Beards: amongst them Ten their yeares being accounted together, made vp the number of 700. yeares of Age) that those graue and aunci<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt men I say were forced to loose their deate Liues in such a miserable manner, and were brought to this infamous and shamefull end. But they all one with another went to their Death most Christianly &amp; willingly, with the grea<g ref="char:EOLhyphen"/>test ioy and patience, that may be related, remaining alwayes constant in their professed Religion, and in the seruice of God to their last breath, so that many stood thereat amazed, and wondred of their great constancy. Wherof to the number of 25. haue most happely ended their Liues in the profession of the Euangelical Lutheran Religion, no doubt but their soules enioy at this time the glory and felicitie of Eternall life.</p>
+               <p>
+                  <hi>Elias Russin</hi> the Elder, and <hi>Iohn Theodorus</hi> Sixt were likewise, as is before mentioned, sentenced, and should haue suffered the heauy punishment where<g ref="char:EOLhyphen"/>unto they were condemned, but thus farre is inter<g ref="char:EOLhyphen"/>ceeded
+<pb facs="tcp:177260:11"/>for them that the Execution is stayed till his Imperiall Maiesty himselfe commeth to <hi>Prague,</hi> then to doe as it shall please him.</p>
+               <p>And the Executioner layde no hand on any of them that were put to Death (Doctor <hi>Iessenius</hi> one<g ref="char:EOLhyphen"/>ly excepted with the three that were executed with the Rope) but they themselues with the helpe of e<g ref="char:EOLhyphen"/>uery one his seruants stript off their garments, till the vpper part of their bodyes was made naked, and thus they yeelded themselues willingly to dye.</p>
+               <p>As sooue as the head of any of them was strucken off, as likewise any of the handes being seperated from the arme, at the same instant one of the ser<g ref="char:EOLhyphen"/>uants tooke the head and hand of his Master and caryed it away, being in the meane time left in his keeping. And twelue of these heads were placed and fastened vpon the Bridge-tower, sixe on the one side and sixe on the other, and some of the handes were nayled to their heads: But the hand of <hi>Leander Ruppel</hi> was nayled and made fast on the Pillory, stan<g ref="char:EOLhyphen"/>ding before the Towne-house of the olde Citty.</p>
+               <p>After this, the dead Carcasse of D. <hi>Iessenius</hi> was quartered by the gallowes Tower, and the 4. quar<g ref="char:EOLhyphen"/>ters were set vpon Poles in the high streetes there to remaine.</p>
+               <p>The dead bodies of the others were deliuered into the possession of their Widdowes (whereof some al<g ref="char:EOLhyphen"/>ready were dead for very griefe) of the Children and their friends. And although the head of <hi>Leander Ruppel</hi> should haue been set vpon the Bridge-tower (which also they went about to doe accordingly)
+<pb facs="tcp:177260:12"/>yet it is deliuered to the friends to be buryed with the dead body.</p>
+               <p>The Lord <hi>Budowitz</hi> his hand was chopt off: But the hand of the Earle of <hi>Schlick,</hi> his head being faste<g ref="char:EOLhyphen"/>ned vpon the Pole, then his hand that was chopt off, was nayled vpon his mouth. Thus there were in all Twelue heads and Foure hands set vpon the Bridge Tower: that of the Earle <hi>Schlick,</hi> that of the Lord <hi>Bu<g ref="char:EOLhyphen"/>dowitz,</hi> that of <hi>Michalowitz,</hi> of <hi>Kaplitz,</hi> of <hi>Dworsetzky,</hi> of <hi>Losse,</hi> of <hi>Bilaw,</hi> of <hi>Kochan,</hi> of <hi>Steffetschtz,</hi> of <hi>Cober,</hi> of <hi>Iessenius,</hi> and of <hi>Hawenschild.</hi> And the said Earle <hi>Schlick, Michalowitz, Ruppel,</hi> and <hi>Hawenschild,</hi> their hands were also set vpon the Bridge-tower, being nayled on their heads.</p>
+               <p>On Tuesday then next following the 22. of Iune, the aforesaid <hi>Nicholas Diebis</hi> according to his Iudge<g ref="char:EOLhyphen"/>ment stood for the time of an houre nayled with his tongue on the poast of the Gallowes, and after that was caryed againe into Prison, he was condemned (this penalty performed) to be lockt vp in Iron Chaines, and to be sent to <hi>Raab</hi> in perpetuall impri<g ref="char:EOLhyphen"/>sonment: but through the vnspeakable great paine and torment, which he suffered thus standing, he dy<g ref="char:EOLhyphen"/>ed the next Day after. On the same Tuesday, were likewise both the olde Citties Attornyes aforesaid, with another Officer of the said Citty, with roddes whipped through and out of the Citty, and for euer banished out of the Kingdome of Bohemia.</p>
+               <p>On Wednesday the 23. of Iune in the night time, one of the Heads that were set on poales vpon the Bridge-tower, fell downe at the one side thereof, so that no body doth know how it came down, neither
+<pb facs="tcp:177260:12"/>is it, or at least it will not be knowne whose head of them that were executed it was, onely very timely in the morning, it was caryed vp againe, and set in the place where it stood before.</p>
+               <trailer>And thus ended this bloody Tragedy.</trailer>
+            </div>
+            <div type="part">
+               <p>On Thursday next the 24. of Iune, the said Ma<g ref="char:EOLhyphen"/>ster <hi>Lippach,</hi> made an excellent and most godly Ser<g ref="char:EOLhyphen"/>mon in the Dutch Church in the high Germane language, there with a hearty thankesgiuing to the Almighty God, he related that God through his Diuine mercy and goodnes, had heard the earnest prayers, aswell of them that were Prisoners, and now departed out of this miserable world, as of others vpright and true Christians, shewing such extraor<g ref="char:EOLhyphen"/>dinary great grace and clemency to those that were condemned, in their last going out of this mortall life, that thereby they were strengthened with great patience to perseuere in the constant profession of their Christian Faith, in an assured hope of their Re<g ref="char:EOLhyphen"/>surrection to Eternall saluation, in their Christian and fraternal Charity, and in continuall Prayers and supplications to God and his Son Iesus Christ their Sauiour and Redeemer to the very last end of their liues; yea in the Death it selfe, and that accordingly, as most blessed and happy Christians: no doubt but God Almighty had already receiued their soules in<g ref="char:EOLhyphen"/>to his Eternall Glory, there to reioyce with him for euer. And that they, like a Hart thirsteth after fresh waters, so they haue longed for their temporall Death and seperation out of this miserable Life, and contrary to all mens expectation, not without great
+<pb facs="tcp:177260:13"/>amazement of many, they apprehended and accep<g ref="char:EOLhyphen"/>ted most willingly the happy last moment of their departure out of this vayle of miseries.</p>
+               <p>Doct. <hi>Luke,</hi> Doct. <hi>George Frederick,</hi> and other Pri<g ref="char:EOLhyphen"/>soners more of quality shall be likewise Executed within few dayes hereafter, according as the sen<g ref="char:EOLhyphen"/>tence of their Arraignment shall be.</p>
+               <p>The common speech goeth, that the next weeke after the Execution aboue rehearsed, some other notable men being apprehended are likewise to be Arraigned and to suffer death in the lesser part of the Citty of Prague, so that euery day there are yet more and more Arrested and Committed to Prison, and as men say, there is already a great number of persons of all conditions and quality noted and in<g ref="char:EOLhyphen"/>roled in the blacke register Booke.</p>
+               <p>The Emperours Maiesty will be heere himselfe within these Three weekes, then there shall be pro<g ref="char:EOLhyphen"/>ceeded further in this busines: what order shall be then giuen at his arriuall, time will showe. In the meane time, God graunt in his mercy, that now all troubles and sorowes may be once ended, and that the faire Sun-shining light of Gods Loue towards vs miserable offenders, may shine once againe in this Kingdome. To his Godly and continuall protecti<g ref="char:EOLhyphen"/>on, I commend herewithall the beneuolent Reader.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
